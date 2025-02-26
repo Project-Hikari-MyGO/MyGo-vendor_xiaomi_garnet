@@ -2029,8 +2029,6 @@ PRODUCT_PACKAGES += \
     imsdaemon \
     init.class_main \
     init.crda \
-    init.kernel.post_boot-parrot \
-    init.kernel.post_boot \
     init.mdm \
     init.qcom.class_core \
     init.qcom.coex \

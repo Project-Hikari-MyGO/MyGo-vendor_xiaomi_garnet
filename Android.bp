@@ -34559,22 +34559,6 @@ sh_binary {
 }
 
 sh_binary {
-    name: "init.kernel.post_boot-parrot",
-    owner: "xiaomi",
-    src: "proprietary/vendor/bin/init.kernel.post_boot-parrot.sh",
-    filename: "init.kernel.post_boot-parrot.sh",
-    soc_specific: true,
-}
-
-sh_binary {
-    name: "init.kernel.post_boot",
-    owner: "xiaomi",
-    src: "proprietary/vendor/bin/init.kernel.post_boot.sh",
-    filename: "init.kernel.post_boot.sh",
-    soc_specific: true,
-}
-
-sh_binary {
     name: "init.mdm",
     owner: "xiaomi",
     src: "proprietary/vendor/bin/init.mdm.sh",
