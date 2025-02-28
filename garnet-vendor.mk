@@ -1237,7 +1237,9 @@ PRODUCT_PACKAGES += \
     libaidenoiser \
     libalCFR \
     libalLDC \
+    libalLDC_p \
     libalhLDC \
+    libalhLDC_p \
     libanc_hdr \
     libancbase \
     libar-acdb \
